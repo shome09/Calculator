@@ -5,11 +5,14 @@ body {
     text-align: center;
 }
 
+/* changes here */
 #num1{
     font-family: 'Orbitron', sans-serif;
     font-weight: 700;
-    font-size: xxx-large;
+    font-size: 40px;
     letter-spacing: 2px;
+    max-height: 500px;
+    height: 100%;
 }
 #main-hero{
     margin: 150px auto;
